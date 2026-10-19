@@ -1,3 +1,3 @@
-# AI-TE-1003
+# AI-TE-1203
 Tugas mata kuliah Kecerdasan Buatan (Search Algorithm)
 Pyhton
